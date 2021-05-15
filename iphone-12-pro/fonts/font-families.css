@@ -1,0 +1,114 @@
+@font-face {
+    font-family: 'SF Pro Display';
+    src        : url('SFProDisplay-Ultralight.eot');
+    src        : url('SFProDisplay-Ultralight.eot?#iefix') format('embedded-opentype'),
+        url('SFProDisplay-Ultralight.woff') format('woff'),
+        url('SFProDisplay-Ultralight.ttf') format('truetype');
+    font-weight : 100;
+    font-style  : normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SF Pro Display';
+    src        : url('SFProDisplay-Thin.eot');
+    src        : url('SFProDisplay-Thin.eot?#iefix') format('embedded-opentype'),
+        url('SFProDisplay-Thin.woff') format('woff'),
+        url('SFProDisplay-Thin.ttf') format('truetype');
+    font-weight : 100;
+    font-style  : normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SF Pro Display';
+    src        : url('SFProDisplay-Semibold.eot');
+    src        : url('SFProDisplay-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('SFProDisplay-Semibold.woff') format('woff'),
+        url('SFProDisplay-Semibold.ttf') format('truetype');
+    font-weight : 600;
+    font-style  : normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SF Pro Display';
+    src        : url('SFProDisplay-Light.eot');
+    src        : url('SFProDisplay-Light.eot?#iefix') format('embedded-opentype'),
+        url('SFProDisplay-Light.woff') format('woff'),
+        url('SFProDisplay-Light.ttf') format('truetype');
+    font-weight : 300;
+    font-style  : normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SF Pro Display';
+    src        : url('SFProDisplay-Medium.eot');
+    src        : url('SFProDisplay-Medium.eot?#iefix') format('embedded-opentype'),
+        url('SFProDisplay-Medium.woff') format('woff'),
+        url('SFProDisplay-Medium.ttf') format('truetype');
+    font-weight : 500;
+    font-style  : normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SF Pro Display';
+    src        : url('SFProDisplay-Regular.eot');
+    src        : url('SFProDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+        url('SFProDisplay-Regular.woff') format('woff'),
+        url('SFProDisplay-Regular.ttf') format('truetype');
+    font-weight : normal;
+    font-style  : normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'appleicons_text';
+    src: url('appleicons_text.eot');
+    src: url('appleicons_text.eot?#iefix') format('embedded-opentype'),
+        url('appleicons_text.woff') format('woff'),
+        url('appleicons_text.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+@font-face {
+    font-family: 'SF Pro Icons';
+    src: url('SFProIconsRegular.eot');
+    src: url('SFProIconsRegular.eot?#iefix') format('embedded-opentype'),
+        url('SFProIconsRegular.woff') format('woff'),
+        url('SFProIconsRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'SF Pro Text';
+    src: url('SFProText-Light.eot');
+    src: url('SFProText-Light.eot?#iefix') format('embedded-opentype'),
+        url('SFProText-Light.woff') format('woff'),
+        url('SFProText-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SF Pro Text';
+    src: url('SFProText-Regular.eot');
+    src: url('SFProText-Regular.eot?#iefix') format('embedded-opentype'),
+        url('SFProText-Regular.woff') format('woff'),
+        url('SFProText-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
